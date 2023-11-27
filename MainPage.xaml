@@ -10,13 +10,13 @@
             VerticalOptions="Center">
 
             <Image
-                Source="dotnet_bot.png"
+                Source="imagine.jpg"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Hello, World!"
+                Text=" FSEGA - UNIVERSITATEA Babes Bolyai!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
